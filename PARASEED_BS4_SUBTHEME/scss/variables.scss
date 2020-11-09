@@ -1,0 +1,38 @@
+//
+// PARASEED_BS4_SUBTHEME Variables ovarrides.
+// --------------------------------------------------
+
+
+// #############################################################################
+// Bootstrap library standard variables.
+// #############################################################################
+// All variables which are used in the default bootstrap library.
+// You can change them in PARASEED_BS4_SUBTHEME for the bootstrap-variables.sass
+//
+@import "bootstrap-variables"; // Bootstrap custom variables ovarrides in PARASEED_BS4_SUBTHEME.
+
+
+// #############################################################################
+// Barrio custom variables.
+// #############################################################################
+// All needed custom variables for Bootstrap Barrio theme.
+// You can change them in PARASEED_BS4_SUBTHEME in the bootstrap-variables.sass
+//
+@import "barrio-variables"; // Barrio custom variables ovarrides in PARASEED_BS4_SUBTHEME.
+
+
+// #############################################################################
+// Paraseed BS4 custom variables
+// #############################################################################
+// All needed custom Paraseed bs4 variables
+// You can change them in PARASEED_BS4_SUBTHEME in the paraseed_bs4-variables.sass
+//
+@import "paraseed_bs4-variables"; // Paraseed BS4 custom variables ovarrides in PARASEED_BS4_SUBTHEME.
+
+
+// #############################################################################
+// PARASEED_BS4_SUBTHEME custom needed variables
+// #############################################################################
+// Add custom needed PARASEED_BS4_SUBTHEME variables.
+// In the generated PARASEED_BS4_SUBTHEME not in Paraseed BS4 base theme.
+//

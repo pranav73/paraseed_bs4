@@ -1,0 +1,15 @@
+**/*.min.js
+**/gulpfile.js
+**/bootstrap
+**/node_modules
+js/bootstrap/*.js
+js/bootstrap_barrio/*.js
+js/misc/*.js
+js/popper/*.js
+PARASEED_BS4_SUBTHEME/*.min.js
+PARASEED_BS4_SUBTHEME/gulpfile.js
+PARASEED_BS4_SUBTHEME/bootstrap
+PARASEED_BS4_SUBTHEME/node_modules
+PARASEED_BS4_SUBTHEME/js/bootstrap/*.js
+PARASEED_BS4_SUBTHEME/js/bootstrap_barrio/*.js
+PARASEED_BS4_SUBTHEME/js/popper/*.js
